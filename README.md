@@ -8,6 +8,7 @@ Este Sistema deve:
 * Listar os contatos adicionados
 * Listar sms enviados e recebidos do contato
 * Mostrar os sms do contato em detalhe
+* Ser capaz de adicionar uma foto para o contato
 
 
 Utilizar qualquer linguagem para o front-end, back-end e banco de dados.
