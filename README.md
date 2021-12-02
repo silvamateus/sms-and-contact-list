@@ -6,7 +6,7 @@ Este Sistema deve:
 
 * Adicionar contatos
 * Listar os contatos adicionados
-* Listar sms enviados e recebidos do contato
+* Listar sms enviados para o contato
 * Mostrar os sms do contato em detalhe
 * Ser capaz de adicionar uma foto para o contato
 
